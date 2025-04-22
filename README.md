@@ -1,11 +1,13 @@
 # Hi 👋 I'm Pandu:
 I'm studying Robotics and Mechatronics Engineering at Monash University in Melbourne, Australia. Currently, I work as an AI Engineer at Monash AIM, where I research and develop deep learning models for medical imaging. My interests include Robotics, Artificial Intelligence, Computer Vision, and hardware-software integration.
 
-## 🌐 Feel Free to Contact Me:
+## Feel Free to Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pandu-raditya-rohman/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raditya.rohman2004@gmail.com) 
 
-## 💻 My Main Programming Languages:
+---
+
+## My Main Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -13,7 +15,7 @@ I'm studying Robotics and Mechatronics Engineering at Monash University in Melbo
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 💻 Frameworks and Libraries I use:
+## Frameworks and Libraries I use:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
