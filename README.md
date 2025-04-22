@@ -1,5 +1,5 @@
 # Hi 👋 I'm Pandu:
-I'm currently studying Robotics and Mechatronics Engineering at Monash University in Melbourne, Australia. I’m currently doing work as an AI Engineer at Monash AIM, where I research and develop deep learning models for medical imaging. My interests include Robotics, AI, Computer Vision, and hardware-software integration.<br>
+I'm studying Robotics and Mechatronics Engineering at Monash University in Melbourne, Australia. Currently, I work as an AI Engineer at Monash AIM, where I research and develop deep learning models for medical imaging. My interests include Robotics, Artificial Intelligence, Computer Vision, and hardware-software integration.
 
 ## 🌐 Feel Free to Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pandu-raditya-rohman/) 
